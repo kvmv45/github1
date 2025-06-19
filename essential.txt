@@ -1,1 +1,1 @@
-essential: shirt
+essential: pant
